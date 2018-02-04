@@ -1,0 +1,41 @@
+.parallax {
+	min-height: 800px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.nav1 {
+	font-family: 'Raleway', serif;
+	font-size: 1.7em;
+	margin: 0 auto;
+	padding: 2em 5em;
+	text-align: center;
+}
+
+.green {
+	color: green;
+	padding: 30px 20px;
+
+}
+
+.home {
+	background-image: url("clean.jpg");
+	background-position: 50% 30%;
+}
+
+.about {
+	background-image: url("flower.jpg"); 
+	background-position: center;
+}
+
+.box {
+	position: absolute;
+	z-index: 1;
+}
+
+.me {
+	background-image: url("mac.jpg");
+	background-position: right center;
+}
